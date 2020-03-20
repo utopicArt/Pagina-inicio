@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Global</string>
+    <string name="login_register_txt">¿Aún no eres miembro?</string>
+    <string name="registrate_lbl">Registrate.</string>
+</resources>
